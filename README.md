@@ -1,1 +1,3 @@
-"# Samsung Naturale Language Processing Course on Stepik" 
+# Samsung NLP Course on Stepik
+
+Здесь будут располагаться конспекты и решения задач, которые предлагаются на курсе по обработке естественного языка от Samsung на Stepik, который был запущен 15 октября 2019 года
