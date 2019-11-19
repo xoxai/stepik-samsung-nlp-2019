@@ -14,3 +14,5 @@
 Ќе так хорошо обучаютс€, наблюдаютс€ проблемы затухани€ и взрыва градиента (vanishing & exploding gradient).
 
 –ассмотрим простой пример одномерной нейросети, состо€щей из небольшого числа слоЄв и будем решать задачу классификации дл€ текстов.
+
+![1D-RNN](https://raw.githubusercontent.com/xoxai/stepik-samsung-nlp-2019/master/lecture_notes/images/simple_rnn.PNG "Example RNN architecture")
